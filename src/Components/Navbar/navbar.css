@@ -1,0 +1,43 @@
+.searchboxer {
+    height: 40px;
+    width: 400px;
+    background-color: rgb(109, 167, 9) ;
+    /* border-radius: 55px; */
+    border: 2px solid white;
+    margin-left: 950px;
+    font-size: 17px;
+    /* opacity: 1; */
+
+}
+
+.firstdiv {
+    height: auto;
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(../../../../movie-list/public/movie2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* padding-top: 10px; */
+}
+
+.moviename{
+    color: rgb(196, 218, 0);
+    font-size: 30px;
+    margin-top: -45px;
+    margin-left: 60px;
+}
+
+.navbar{
+    background: rgb(10, 106, 202);
+    height: 70px;
+    
+}
+.searchicon{
+    margin-left: 1440px;
+    margin-top: -30px;
+}
+.searchboxes{ 
+    margin-top: -60px;
+    margin-left: 130px;
+}

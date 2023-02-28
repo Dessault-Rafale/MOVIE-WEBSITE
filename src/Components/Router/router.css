@@ -1,0 +1,49 @@
+.diver {
+    height: 100vh;
+    width: 100%;
+    padding-top: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url("https://png.pngtree.com/background/20210711/original/pngtree-film-scene-film-background-picture-image_1082529.jpg");
+}
+
+.firstbox {
+    height: 650px;
+    width: 600px;
+    background: rgb(5, 139, 12);
+    /* border-radius: 20px; */
+    margin-left: -190px;
+    margin-top: -285px;
+}
+
+.innerdiver1 {
+    height: 300px;
+    width: 600px;
+    background: rgb(5, 103, 139);
+    padding: 20px;
+    /* background-image: url("https://images.news18.com/ibnlive/uploads/2016/04/ironman.jpg?impolicy=website&width=510&height=356"); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+.innerdiver2 {
+    height: auto;
+    min-height: 350px;
+    width: 600px;
+    background: rgb(36, 61, 27);
+    padding: 20px;
+
+}
+p{
+    color: rgb(10, 229, 152);
+}
+
+.images{
+    margin-top: -20px;
+    margin-left: -20px;
+    height: 300px;
+    width: 600px;
+}

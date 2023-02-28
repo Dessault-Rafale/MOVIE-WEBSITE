@@ -1,0 +1,43 @@
+.bottombox{
+    height: 200px;
+    width: 300px;
+    background: rgb(248, 71, 192);
+    margin-top: 50px;
+    margin-left: 50px;
+    padding-top: 0px;
+    
+}
+
+.bottomsecond{
+    height: 200px;
+    width: 300px;
+    background: rgb(13, 184, 130);
+    
+    
+}
+.cards{
+    margin-top: 50px;
+    padding: 20px;
+
+}
+
+#img {
+    
+    transition: transform .2s; 
+   margin: 0 auto;
+  }
+  
+  #img:hover {
+    -ms-transform: scale(1.5); 
+    -webkit-transform: scale(1.5); 
+    transform: scale(1.1); 
+  }
+
+
+
+
+
+
+
+
+
